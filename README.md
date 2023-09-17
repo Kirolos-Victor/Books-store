@@ -2,7 +2,7 @@
 
 ### Clone the repository
 
-> git clone **https://github.com/Kirolos-Victor/laravel-genies.git**
+> git clone **https://github.com/Kirolos-Victor/Books-store.git**
 
 
 ### Setup your .env file
